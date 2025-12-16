@@ -1,0 +1,5 @@
+{
+  "name": "LibraSync LMS",
+  "description": "A modern, responsive Library Management System for Admins and Librarians to manage books, members, loans, and fines efficiently.",
+  "requestFramePermissions": []
+}
